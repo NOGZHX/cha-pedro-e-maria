@@ -202,7 +202,7 @@
   {
     "id": 26,
     "nome": "Jogo de copos",
-    "valor": 60,
+    "valor": 40,
     "descricao": "Para servir bebidas.",
     "imagem": "img/jogo-copos.webp",
     "comodo": "Cozinha"
